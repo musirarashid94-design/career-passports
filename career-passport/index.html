@@ -1,0 +1,534 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NextStep Navigator</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <header class="py-3 bg-light">
+    <div class="container-fluid d-flex flex-column flex-md-row align-items-center justify-content-between">
+      <div class="d-flex align-items-center gap-2 mb-2 mb-md-0">
+        <img src="images/logo-removebg-preview.png" alt="Logo" class="img-fluid" style="max-height:50px;">
+        <div>
+          <div class="brand fw-bold">NextStep Navigator</div>
+          <div class="small text-muted">Your Guide to the Future</div>
+        </div>
+      </div>
+
+      <div class="d-flex flex-column flex-md-row align-items-center gap-2">
+        <div class="small text-muted">Visitors: <span id="visitor">0</span></div>
+        <div class="small text-muted">Time: <span id="clock">--:--:--</span></div>
+        <div class="small text-muted" id="location">Location: --</div>
+      </div>
+    </div>
+  </header>
+  
+
+  <nav id="mainNavbar" class="navbar navbar-expand-lg navbar-custom d-none">
+    <div class="container d-flex justify-content-between align-items-left">
+      <span id="navGreeting" class="navbar-text small text-dark" style="font-size: 15px;"></span>
+    </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link active" data-tab="career" href="#">Career</a></li>
+        <li class="nav-item"><a class="nav-link" data-tab="quiz" href="#">Quiz</a></li>
+        <li class="nav-item"><a class="nav-link" data-tab="multimedia" href="#">Multimedia</a></li>
+        <li class="nav-item"><a class="nav-link" data-tab="stories" href="#">Stories</a></li>
+        <li class="nav-item"><a class="nav-link" data-tab="resources" href="#">Resources</a></li>
+        <li class="nav-item"><a class="nav-link" data-tab="bookmark" href="#">Bookmarks</a></li>
+        <li class="nav-item"><a class="nav-link" data-tab="about" href="#">About</a></li>
+        <li class="nav-item"><a class="nav-link" data-tab="contact" href="#">Contact</a></li>
+        <li class="nav-item"><a class="nav-link" data-tab="feedback" href="#">Feedback</a></li>
+
+        <button id="logoutBtn" class="btn-logout">Logout</button>
+      </ul>
+    </div>
+  </nav>
+
+
+  <!-- Log in sTARTS-->
+<section id="landingSection" class="d-flex justify-content-center align-items-center" style="min-height:80vh;">
+  <div class="login-card card card-body">
+    <h2 class="text-center mb-2 brand">NextStep Navigator</h2>
+    <p class="text-center small-muted mb-4">Your personalized guide to explore careers, take interesting quizzes, and find helpful resources</p>
+
+    <!-- Toggle Signup/Login -->
+    <div class="text-center mb-3">
+      <button id="toggleBtn" class="btn btn-sm btn-outline-secondary">Switch to Signup</button>
+    </div>
+
+    <!-- Name Signup only -->
+    <div class="mb-3" id="nameField">
+      <input id="username" type="text" class="form-control" placeholder="Your Name">
+    </div>
+
+    <!-- Email -->
+    <div class="mb-3">
+      <input id="userEmail" type="email" class="form-control" placeholder="Your Email" required>
+    </div>
+
+    <!-- Grade / User Type -->
+    <div class="mb-3">
+      <select id="userType" class="form-select">
+        <option value="students">Student (Grades 8–12)</option>
+        <option value="undergraduate">Undergraduate</option>
+        <option value="graduate">Graduate</option>
+        <option value="professional">Working Professional</option>
+      </select>
+    </div>
+
+    <!-- Password -->
+    <div class="mb-3">
+      <input id="password" type="password" class="form-control" placeholder="Password" required>
+    </div>
+
+    <!-- Remember Me -->
+    <div class="form-check mb-3">
+      <input class="form-check-input" type="checkbox" id="rememberMe">
+      <label class="form-check-label" for="rememberMe">Remember Me</label>
+    </div>
+
+    <!-- Submit -->
+    <button id="authBtn" class="btn btn-accent w-100">Login</button>
+  </div>
+</section>
+
+  <!-- LOGIN ENDS --->
+
+    <!-- Homepage Section (hidden until Explore) -->
+    <section id="homeSection" class="d-none">
+      <main class="container my-4">
+        <h3 id="greeting" class="mb-4"></h3>
+        
+
+      <!-- Career Bank -->
+      <section id="career" class="tab-pane d-none">
+        <h2>Career Bank</h2>
+        <h5>From Curiosity to Career</h5>
+        <!-- Career Cards -->
+          <!-- Undergraduate -->
+          <div id="filt">
+        <select id="filterIndustryUndergraduate" data-type="undergraduate" class="industry-dropdown">
+          <option value="All">All Industries</option>
+        </select>
+
+        <!-- Graduate -->
+        <select id="filterIndustryGraduate" data-type="graduate" class="industry-dropdown">
+          <option value="All">All Industries</option>
+        </select>
+
+        <!-- Students -->
+        <select id="filterIndustryStudents" data-type="students" class="industry-dropdown">
+          <option value="All">All Industries</option>
+        </select>
+
+        <!-- Professional -->
+        <select id="filterIndustryProfessional" data-type="professional" class="industry-dropdown">
+          <option value="All">All Industries</option>
+        </select>
+
+        <div class="career-filters d-flex gap-2 mb-3">
+        <select id="sortCareer" style="margin-top: 14px ;">
+          <option value="none">Sort By</option>
+          <option value="alpha">Alphabetical</option>
+          <option value="salaryAsc">Salary: Low to High</option>
+          <option value="salaryDesc">Salary: High to Low</option>
+        </select>
+      </div>
+      </div>
+
+        <div id="careerList"></div>
+      </section>
+
+
+      
+      <!--- Quiz --->
+      <section id="quiz" class="tab-pane d-none">
+        <h2>Career Quiz</h2>
+        <div class="mb-3">
+          <label for="quizInterest" class="form-label">Choose an interest area:</label>
+          <select id="quizInterest" class="form-select"></select>
+        </div>
+        <div id="quizArea"></div>
+        <div id="quizResult" class="mt-3"></div>
+        <button id="startQuiz" class="btn btn-accent">Start Quiz</button>
+      </section>
+      <!--- QUIZ ENDS --->
+
+      <!-- Multimedia --->
+      <section id="multimedia" class="tab-pane d-none">
+        <h2 class="mb-4">Multimedia</h2>
+
+        <!-- Filter Buttons -->
+        <div class="btn-group mb-3 flex-wrap" role="group">
+          <button class="filter-btn active mb-1 me-1" data-category="all">All</button>
+          <button class="filter-btn mb-1 me-1" data-category="motivation">Motivation</button>
+          <button class="filter-btn mb-1 me-1" data-category="job roles">Job Roles</button>
+          <button class="filter-btn mb-1 me-1" data-category="internship">Internship</button>
+          <button class="filter-btn mb-1 me-1" data-category="resources">Resources</button>
+          <button class="filter-btn mb-1 me-1" data-category="wellbeing">Wellbeing</button>
+        </div>
+
+        <!-- Dynamic Grid -->
+        <div id="multimediaGrid" class="row g-3">
+          <!-- Example responsive wrapper for dynamic items -->
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <!-- Item content injected dynamically here -->
+          </div>
+        </div>
+      </section>
+
+
+      <!--- Stories --->
+      <section id="feedback" class="tab-pane d-none">
+        
+          <div>
+            <div class="feedback-card">
+                <h2>We Value Your Feedback</h2>
+                <p>Your thoughts help us improve. Let us know what you think!</p>      
+            
+            <form>
+            <div class="input-group">
+            <input type="text" required />
+            <label>Name</label>
+            </div>
+            <div class="input-group">
+            <input type="email" required />
+            <label>Email</label>
+            </div>
+            <!-- Feedback Type Dropdown -->
+            <div class="input-group">
+            <select id="topic" name="topic" required>
+                <option value="" disabled selected>Select a topic</option>
+                <option value="general">General Feedback</option>
+                <option value="bug">Report a Bug</option>
+                <option value="feature">Feature Request</option>
+                <option value="other">Other</option>
+            </select>
+            </div>
+            <div class="input-group">
+                <textarea required></textarea>
+                <label>Message</label>
+            </div>
+            <button type="button">Send Feedback</button>
+                </form>
+                </div>
+            </div>
+      </section>
+
+      <section id="stories" class="tab-pane d-none">
+        <h2 class="mb-4">Success Stories</h2>
+        <div class="row g-3" id="storiesList">
+          <!-- Stories will be dynamically injected by index.js -->
+        </div>
+      </section>
+
+      <!-- Story Modal -->
+      <div class="modal fade" id="storyModal" tabindex="-1" aria-labelledby="storyModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="storyModalLabel">Story</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" id="storyModalBody">
+              <!-- Story details injected here -->
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-accent" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!--- Resourses --->
+      <section id="resources" class="tab-pane d-none">
+        <h2 class="mb-4">Resources</h2>
+        <div class="row g-3" id="resourcesList">
+          <!-- Resources  will be dynamically injected by index.js -->
+        </div>
+      </section>
+
+      <!-- Resource Modal -->
+      <div class="modal fade" id="resourceModal" tabindex="-1" aria-labelledby="resourceModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="resourceModalLabel">Resource</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" id="resourceModalBody">
+              <!-- Resource details injected here -->
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-accent" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- resources ended -->
+
+
+      <!--- Bookmarks --->
+      <section id="bookmark" class="tab-pane d-none">
+        
+        <!-- bookmark injected here -->
+      </section>
+
+      <!--- About --->
+      
+      <section id="about" class="tab-pane d-none">
+
+        <!-- Hero Section -->
+      <section class="hero">
+      <video autoplay muted loop playsinline class="bg-video">
+        <source src="image/ab.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="overlay">
+        <h4>Our Vision</h4>
+        <h1>We envision a world where anyone,<br>
+          anywhere has the power to transform their<br>
+          lives through learning.</h1>
+    <a href="#contact"><button id="scroll-to-contact">Talk to our Team</button></a>
+      </div>
+    </section>
+
+
+    <!-- Partners Section -->
+    <section class="partners">
+      <div class="text">
+        <p>
+          NextStep Navigator partners with <strong>more than 350 leading universities</strong> and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
+          We offer a <a href="#">range of learning opportunities</a> — from hands-on projects and courses to job-ready certificates and degree programs.
+        </p>
+      </div>
+      <div class="logos">
+        <img src="./image/ned.webp" alt="Ned University">
+        <img src="image/sacred heart school.webp" alt="Sacred Heart School">
+        <img src="image/google.png" alt="Google">
+        <img src="image/army.png" alt="Army Public COllege">
+        <img src="image/iba.png" alt="IBA University">
+        <img src="image/stpatrick.webp" alt="St. Patricks">
+        <img src="image/aptech.webp" alt="Aptech">
+      </div>
+    </section>
+
+    <!-- Belief Section -->
+    <section class="belief">
+      <h2>We believe</h2>
+      <p>Learning is the source of human progress.</p>
+      <p>It has the power to transform our world<br>
+        from illness to health,<br>
+        from poverty to prosperity,<br>
+        from conflict to peace.</p>
+      <p>It has the power to transform our lives<br>
+        for ourselves,<br>
+        for our families,<br>
+        for our communities.</p>
+      <p>No matter who we are or where we are,<br>
+        learning empowers us to change and grow<br>
+        and redefine what’s possible.</p>
+      <p>That’s why access to the best learning is a right, not a privilege.</p><br>
+        <p>And thats why Nextstep Navigator is here <br>
+        we partnerswith best institued to bring<br>
+         the best learning to every corner of the world</p><br>
+     <p> So that anyone ,anywhere has the power to tranform their lives <br>
+        through learning.....
+     </p>
+    </section>
+    <!-- slide section -->
+    <section class="slide">
+      <div class="content">
+        <h3>Serving the world through learning</h3>
+      </div>
+
+      <div class="image-container">
+        <img src="image/slide2.png" id="image-slider" alt="Slide Image" />
+        
+      </div>
+
+      <div class="controls">
+        <span class="img-btn active" data-src="image/slide1.png"></span>
+        <span class="img-btn" data-src="image/slide2.png"></span>
+        <span class="img-btn" data-src="image/slide3.png"></span>
+      </div>
+    </section>
+          <!-- story -->
+   <section class="story">
+     <div class="container">
+           <h1 class="story-header">Our story</h1>
+
+   <div class="story-content">
+    <div class="story-text">
+    <p>NextStep Navigator was founded by Our team <strong>Bitstrom</strong> in 2012 with a vision of providing life-transforming learning experiences to learners around the world.
+      Today, NextStep Navigator is a global platform for online learning and career development that offers anyone, anywhere, access to online courses and degrees from leading universities 
+      and companies. NextStep Navigator  became a Delaware public benefit corporation in February 2021, which means that we have a legal duty not only to our shareholders, 
+      but to also make a positive impact on society more broadly, as we continue our efforts to reduce barriers to world-class education for all. 
+      We also received B Corp certification in February 2021, indicating that NextStep Navigator meets rigorous standards of social and environmental performance,
+      accountability, and transparency.</p><br><br>
+    <p><strong>175+ million learners and more than 6,200 campuses, businesses, and governments</strong> 
+       have come to NextStep Navigator to access world-class learning—anytime, anywhere.</p>
+   </div>
+
+    <div class="story-video-wrapper">
+      <video src="image/c.mp4" autoplay muted playsinline>
+          Your browser does not support the video tag.
+        </video>
+      </div>
+   </div> 
+
+   <div class="caption">
+        Kashf F. and Nimra N., co-founders, NextStep Navigation | Aman M., learner, NextStep Navigation 
+      </div>
+    </div>
+  </section>
+
+    <section class="join">
+      <h3>Join our global community and start learning today</h3>
+    </section>
+ </section>
+<!-- about end -->
+
+<!-- Contact sectiion-->
+ 
+<section id="contact" class="tab-pane d-none">
+  <div class="contact-container">
+
+  <!-- Left: Team Contact Info -->
+  <div class="contact-info">
+    <h2>Contact Our Team</h2>
+    <p>We’re here to help! Reach out to any of our team members below.</p>
+
+    <div class="team-member">
+      <h3>Nimra Naz <span class="status" data-name="Nimra Naz"></span></h3>
+      <p>Customer Support</p>
+      <p>Email: nimub281@gmail.com</p>
+      <p>Phone: +92 323 456 7890</p>
+    </div>
+
+    <div class="team-member">
+      <h3>Kashf e Fatima <span class="status" data-name="Kashf e Fatima"></span></h3>
+      <p>Technical Lead</p>
+      <p>Email: Kashfefatima@gmail.com</p>
+      <p>Phone: +92 347 654 3210</p>
+    </div>
+
+    <div class="team-member">
+      <h3>Musira Rashid <span class="status" data-name="Musira Rashid"></span></h3>
+      <p>Product Manager</p>
+      <p>Email: musira@gmail.com</p>
+      <p>Phone: +92 315 123 4567</p>
+    </div>
+
+    <div class="team-member">
+      <h3>Syeda Zainab <span class="status" data-name="Syeda Zainab"></span></h3>
+      <p>Product Manager</p>
+      <p>Email: syedazehra@gmail.com</p>
+      <p>Phone: +92 315 123 4567</p>
+    </div>
+
+      <div class="team-member">
+        <h3>Safa Rajput <span class="status" data-name="Safa Rajput"></span></h3>
+        <p>Product Manager</p>
+        <p>Email: safarajput@gmail.com</p>
+        <p>Phone: +92 305 123 4567</p>
+      </div>
+
+<!-- Office hour-->
+<div class="office-hours">
+  <h3>⏰ Team Availability</h3>
+  <table class="hours-table">
+    <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>Mon–Fri</th>
+      <th>Sat–Sun</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>Musira Rashid</td>
+      <td>9:00am – 5:00pm</td>
+      <td>Off</td>
+    </tr>
+    <tr>
+      <td>Kashf e Fatima</td>
+      <td>10:00am – 6:00pm</td>
+      <td>10:00am – 2:00pm</td>
+    </tr>
+    <tr>
+      <td>Nimra Naz</td>
+      <td>11:00am – 7:00pm</td>
+      <td>Off</td>
+    </tr>
+    <tr>
+      <td>Syeda Zainab</td>
+      <td>9:30am – 4:30pm</td>
+      <td>12:00pm – 3:00pm</td>
+    </tr>
+    <tr>
+      <td>Safa Rajput</td>
+      <td>10:00am – 5:00pm</td>
+      <td>Off</td>
+    </tr>
+    </tbody>
+      </table>
+    </div>
+  </div>
+
+    <!--  Google Map -->
+ <div class="map-container">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3620.994252565477!2d67.0807111150044!3d24.90560298402352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33f18ff962ab5%3A0x3b17b2e5a8c9dc5!2sKarachi!5e0!3m2!1sen!2s!4v1694356800000!5m2!1sen!2s"
+      width="100%" height="700" style="border:0; border-radius:12px;" allowfullscreen="" loading="lazy">
+    </iframe>
+ <div class="extra-contact-info">
+     <div class="social-links">
+       <h3> Connect With Us</h3>
+    <ul>
+      <li><a href="https://linkedin.com" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a></li>
+      <li><a href="https://twitter.com" target="_blank"><i class="bi bi-twitter"></i> Twitter</a></li>
+      <li><a href="https://instagram.com" target="_blank"><i class="bi bi-instagram"></i> Instagram</a></li>
+    </ul>
+ </div>
+
+  <div class="office-address">
+    <h3> Our Office</h3>
+    <p>123-B Business Center, Shahrah-e-Faisal,<br> Karachi, Pakistan</p>
+    <p>Email: <a href="nextstepnavigator@gmail.com">nextstepnavigator@gmail.com</a></p>
+    <p>Phone: +92 311 000 1122</p>
+  </div>
+
+    <div class="whatsapp-chat">
+      <h3> Quick Support</h3>
+      <a href="https://wa.me/923110001122" target="_blank" class="whatsapp-btn">
+      Chat on WhatsApp
+      </a>
+    </div>
+    </div>
+  </div>    
+  </div>
+ </section> 
+
+<!-- contact section end -->
+
+ </main>
+</section>
+
+<footer class="py-3 mt-4 border-top small-muted text-center" style="background-color: #839e9a; color: black;">
+    © NextStep Navigator 
+ </footer>
+
+<script src="index.js"></script>
+</body>
+</html>

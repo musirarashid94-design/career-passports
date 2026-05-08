@@ -1,0 +1,128 @@
+[
+  {
+    "interest": "science & math",
+    "questions": [
+      { "q": "Do you enjoy solving math puzzles?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like conducting science experiments in school?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about how machines work?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not at all", "v": 1 }] },
+      { "q": "Do you enjoy solving logical reasoning questions?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like studying physics concepts?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy building science projects for fairs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Never", "v": 1 }] },
+      { "q": "Do you like solving math word problems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about outer space and astronomy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy science documentaries?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like experimenting with chemistry sets?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy solving Sudoku or number puzzles?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like finding patterns in data?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy programming simple codes or apps?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to become a scientist or engineer?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like solving challenging homework problems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Science Stream", "Engineering Stream"]
+  },
+  {
+    "interest": "arts & humanities",
+    "questions": [
+      { "q": "Do you enjoy drawing or painting?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like writing stories or poems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy reading novels or plays?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about history and culture?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like participating in debates?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy acting in school plays?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you like visiting museums or art galleries?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy music and singing?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about different religions and philosophies?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like creative writing in English or your language?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy photography as a hobby?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to become an artist or author?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like designing posters or art projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Never", "v": 1 }] },
+      { "q": "Do you enjoy listening to classical or cultural music?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to study literature or philosophy in future?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] }
+    ],
+    "recommendations": ["Arts Stream", "Social Sciences"]
+  },
+  {
+    "interest": "commerce & business",
+    "questions": [
+      { "q": "Do you like solving money-related word problems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Are you curious about how businesses work?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy playing business simulation games?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like discussing stock market news?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to start your own business someday?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy managing money or allowances?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like reading about entrepreneurs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy teamwork in competitions?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Mostly", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Are you interested in marketing and advertisements?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to work in banks someday?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like helping organize school sales or fairs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy business documentaries?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you like solving case studies in class?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to study commerce subjects later?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy leadership roles in clubs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Commerce Stream", "Business Studies"]
+  },
+  {
+    "interest": "sports & extracurriculars",
+    "questions": [
+      { "q": "Do you enjoy playing outdoor sports?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like being part of a team?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to compete in sports professionally?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy fitness activities like running?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you like being a captain in games?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy watching sports matches?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you motivated to improve your athletic skills?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like participating in marathons?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy gymnastics or yoga?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to study physical education later?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like organizing school sports events?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy coaching friends in sports?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you like outdoor adventure activities?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you excited by teamwork competitions?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like a career in sports sciences?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] }
+    ],
+    "recommendations": ["Sports Studies", "Physical Education"]
+  },
+  {
+  "interest": "technology & computers",
+  "questions": [
+    { "q": "Do you enjoy using computers for projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you like learning new computer applications?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Not really", "v": 1 }] },
+    { "q": "Would you enjoy building your own website?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you like learning about artificial intelligence?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you enjoy solving coding challenges?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+    { "q": "Are you curious about robotics?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not at all", "v": 1 }] },
+    { "q": "Do you like creating mobile apps?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you enjoy playing with tech gadgets?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Would you like to learn game development?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you like learning about cyber security?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Not really", "v": 1 }] },
+    { "q": "Do you enjoy using logic to solve problems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you like working with spreadsheets and data?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Are you interested in careers in IT?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Would you like to study computer science later?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you enjoy learning programming languages?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Not really", "v": 1 }] }
+  ],
+  "recommendations": ["Computer Science Stream", "Information Technology"]
+},
+{
+  "interest": "environmental studies",
+  "questions": [
+    { "q": "Do you enjoy learning about nature and ecosystems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Would you like to work on climate change issues?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you like planting trees or gardening?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Are you interested in saving endangered animals?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "Not really", "v": 1 }] },
+    { "q": "Do you enjoy studying geography?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Do you like recycling and eco-friendly habits?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Would you like to be an environmental activist?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+    { "q": "Do you enjoy studying weather and climate?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+    { "q": "Do you like working on projects to save water?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Would you enjoy learning about renewable energy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+    { "q": "Do you like geography field trips?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Are you motivated to protect the environment?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Mostly", "v": 2 }, { "t": "Not really", "v": 1 }] },
+    { "q": "Do you like studying biology related to plants/animals?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+    { "q": "Would you like to be an environmental scientist?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+    { "q": "Do you enjoy eco-friendly innovation ideas?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] }
+  ],
+  "recommendations": ["Environmental Science", "Sustainability Studies"]
+}
+]

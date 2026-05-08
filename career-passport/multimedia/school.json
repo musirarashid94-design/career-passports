@@ -1,0 +1,138 @@
+[
+  {
+    "id":1,
+    "title": "Exploring STEM Careers",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/az3jZ3xOqjU",
+    "description": "Learn how STEM can open exciting opportunities for students."
+  },
+  {
+    "id":2,
+    "title": "Finding Internships Early",
+    "category": "internship",
+    "type": "podcast",
+    "url": "https://traffic.libsyn.com/secure/thecollegeprepcast/Internship_Tips.mp3",
+    "description": "Tips on securing your first internship while in school."
+  },
+  {
+    "id":3,
+    "title": "Exploring STEM Careers",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/5MgBikgcWnY",
+    "description": "A short film inspiring school students to pursue STEM careers."
+  },
+  {
+    "id":4,
+    "title": "Teen Entrepreneurs Podcast",
+    "category": "job roles",
+    "type": "podcast",
+    "url": "https://traffic.libsyn.com/secure/teenentrepreneurs/Teen_Business_Stories.mp3",
+    "description": "High school students share stories of starting small businesses."
+  },
+  {
+    "id":5,
+    "title": "Choosing High School Subjects Wisely",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.bing.com/ck/a?!&&p=302856bcc5d996b73dd4b169b642b9caa5e793ffb5c8bfae3dbb3b18a4a1f0d8JmltdHM9MTc1NzYzNTIwMA&ptn=3&ver=2&hsh=4&fclid=143112d2-0ea1-6b82-3058-04b70f076af7&psq=Choosing+High+School+Subjects+Wisely+Downloadable+guide+for+aligning+school+subjects+with+career+paths.&u=a1aHR0cHM6Ly9oaWJzLnNjaG9vbC5uei93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wOC9TdHVkZW50LVN1YmplY3QtU2VsZWN0aW9uLUd1aWRlLnBkZg",
+    "description": "Downloadable guide for aligning school subjects with career paths."
+  },
+  {
+    "id":6,
+    "title": "Motivation to Study Effectively",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/O96fE1E-rf8",
+    "description": "Techniques for students to improve focus and achieve better grades."
+  },
+  {
+    "id":7,
+    "title": "Balancing School and Hobbies",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://traffic.libsyn.com/secure/studentwellbeingpod/Managing_Studies_and_Hobbies.mp3",
+    "description": "How to manage academics while pursuing hobbies and sports."
+  },
+  {
+    "id":8,
+    "title": "Creative Careers in Arts",
+    "category": "arts",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/2y9g0tqdqGg",
+    "description": "Introduction to careers in arts, music, and design."
+  },
+  {
+    "id":9,
+    "title": "Volunteer Opportunities for Teens",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.unitedwayjwc.org/sites/unitedwayjwc/files/2020%20Youth%20Teen%20Volunteer%20Guide.pdf",
+    "description": "Organizations and programs where students can volunteer."
+  },
+  {
+    "id":10,
+    "title": "Science Fair Success Stories",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/Q6QzZ6L8QO0",
+    "description": "Highlights from student-led science fair projects."
+  },
+  {
+    "id":11,
+    "title": "Handling Peer Pressure",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://traffic.libsyn.com/secure/studentwellbeingpod/Peer_Pressure_Advice.mp3",
+    "description": "Tips for school students on handling social and academic pressures."
+  },
+  {
+    "id":12,
+    "title": "Career Day Highlights",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Memorable sessions from a school career guidance event."
+  },
+  {
+    "id":13,
+    "title": "Top Science Fair Project Ideas",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas/list",
+    "description": "Ideas for students looking to participate in science fairs."
+  },
+  {
+    "id":14,
+    "title": "Careers in Sports",
+    "category": "job roles",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/Z1Yd7upQsXY",
+    "description": "Exploring career opportunities in athletics and sports management."
+  },
+  {
+    "id":15,
+    "title": "Young Innovators Podcast",
+    "category": "motivation",
+    "type": "podcast",
+    "url": "https://traffic.libsyn.com/secure/teeninnovationpod/Young_Innovators.mp3",
+    "description": "Interviews with teenagers who developed innovative projects"
+  },
+  {
+    "id":16,
+    "title": "Guide to Online Learning Resources",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.techlearning.com/news/best-free-online-learning-resources",
+    "description": "List of free websites and apps for school students."
+  },
+  {
+    "id":17,
+    "title": "Future of Technology Careers",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/2Wi0j4p7SQA",
+    "description": "A sneak peek into how technology will shape future jobs."
+  }
+]

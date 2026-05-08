@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Bilal Ahmed",
+    "field": "Medicine",
+    "story": "Completed MBBS and is now a successful resident doctor.",
+    "img": "images/bilal.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hina Sheikh",
+    "field": "Engineering",
+    "story": "Graduated with honors and is pursuing a PhD in renewable energy.",
+    "img": "images/hina.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Imran Qureshi",
+    "field": "Law",
+    "story": "Graduated from law school and started his own legal practice helping underprivileged clients.",
+    "img": "images/imran.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sana Rauf",
+    "field": "Education",
+    "story": "Completed her M.Ed and is now a lecturer inspiring the next generation of teachers.",
+    "img": "images/sana.jpg"
+  }
+]

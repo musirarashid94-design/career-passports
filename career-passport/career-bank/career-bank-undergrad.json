@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "title": "Junior Web Developer",
+    "description": "Assist in building websites, fixing bugs, and learning coding best practices.",
+    "required_skills": ["HTML & CSS", "Basic JavaScript", "Teamwork", "Problem-solving"],
+    "educational_path": "Currently enrolled in IT, CS, or related undergraduate program",
+    "salary_range": "10,000 - 18,000 USD/year",
+    "industry": "Technology",
+    "image_url": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f"
+  },
+  {
+    "id": 2,
+    "title": "Social Media Assistant",
+    "description": "Create posts, manage pages, and track engagement on social media platforms.",
+    "required_skills": ["Creativity", "Communication", "Social Media Basics", "Time Management"],
+    "educational_path": "Any undergraduate student with basic social media knowledge",
+    "salary_range": "12,000 - 20,000 USD/year",
+    "industry": "Marketing / Media",
+    "image_url": "https://images.unsplash.com/photo-1657974361095-4d5f3fb381fb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U29jaWFsJTIwTWVkaWElMjBBc3Npc3RhbnR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 3,
+    "title": "Graphic Design Intern",
+    "description": "Design graphics for social media, websites, and small marketing campaigns.",
+    "required_skills": ["Adobe Photoshop", "Illustrator", "Typography", "Creativity"],
+    "educational_path": "Undergrad in Design or related creative field",
+    "salary_range": "8,000 - 15,000 USD/year",
+    "industry": "Design / Marketing",
+    "image_url": "https://images.unsplash.com/photo-1622513347372-25663cf6e309?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEdyYXBoaWMlMjBEZXNpZ24lMjBJbnRlcm58ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 4,
+    "title": "Research Assistant",
+    "description": "Collect data, analyze results, and assist in academic research projects.",
+    "required_skills": ["Research", "Excel / Google Sheets", "Critical Thinking", "Documentation"],
+    "educational_path": "Undergrad in relevant field",
+    "salary_range": "10 - 20 USD/hour",
+    "industry": "Academia / Research",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661490210991-8b38951574bc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fFJlc2VhcmNoJTIwQXNzaXN0YW50fGVufDB8fDB8fHww"
+  },
+  {
+    "id": 5,
+    "title": "Customer Support Representative",
+    "description": "Assist customers via chat, email, or phone and resolve inquiries efficiently.",
+    "required_skills": ["Communication", "Patience", "Problem-solving", "Basic Computer Skills"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "10 - 15 USD/hour",
+    "industry": "Business / Services",
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+  },
+  {
+    "id": 6,
+    "title": "Data Entry Assistant",
+    "description": "Enter and manage data in spreadsheets and databases accurately.",
+    "required_skills": ["Typing Speed", "Attention to Detail", "Excel / Sheets"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "8 - 12 USD/hour",
+    "industry": "Administration / Business",
+    "image_url": "https://images.unsplash.com/photo-1657727534685-36b09f84e193?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fERhdGElMjBFbnRyeSUyMEFzc2lzdGFudHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 7,
+    "title": "Junior QA Tester",
+    "description": "Test software applications, report bugs, and assist developers.",
+    "required_skills": ["Attention to Detail", "Basic Testing Knowledge", "Problem-solving"],
+    "educational_path": "Undergrad in CS or related field",
+    "salary_range": "12 - 18 USD/hour",
+    "industry": "Technology",
+    "image_url": "https://images.unsplash.com/photo-1556155092-490a1ba16284"
+  },
+  {
+    "id": 8,
+    "title": "Event Assistant",
+    "description": "Help plan and coordinate events, liaise with vendors, and manage logistics.",
+    "required_skills": ["Organization", "Communication", "Creativity", "Time Management"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "10,000 - 18,000 USD/year",
+    "industry": "Hospitality / Events",
+    "image_url": "https://media.istockphoto.com/id/2157643391/photo/two-salespeople-in-a-furniture-store-point-their-finger-at-something-in-the-distance-as-they.webp?a=1&b=1&s=612x612&w=0&k=20&c=nGRCua9BB_77j1aZN1Ltuy9cQkVjS-SfXXLEfHEZMPY="
+  },
+  {
+    "id": 9,
+    "title": "Tutor / Teaching Assistant",
+    "description": "Assist students with learning, grade assignments, and support professors.",
+    "required_skills": ["Subject Knowledge", "Communication", "Patience", "Organization"],
+    "educational_path": "Undergraduate student with strong academic record",
+    "salary_range": "10 - 20 USD/hour",
+    "industry": "Education",
+    "image_url": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVhY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 10,
+    "title": "Junior Content Creator",
+    "description": "Create blogs, videos, and social media content for online platforms.",
+    "required_skills": ["Video Editing", "Writing", "Creativity", "Social Media Basics"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "12,000 - 20,000 USD/year",
+    "industry": "Media / Marketing",
+    "image_url": "https://media.istockphoto.com/id/1373116084/photo/happy-multiracial-boy-cameraman-amateur-with-headphones-at-home.webp?a=1&b=1&s=612x612&w=0&k=20&c=N7o-08XFtVKfKuYVwmByMYTRWlL-f9XXy6lmZdw4Kzs="
+  },
+  {
+    "id": 11,
+    "title": "Library Assistant",
+    "description": "Help organize books, manage check-ins and check-outs, and assist library visitors.",
+    "required_skills": ["Organization", "Communication", "Attention to Detail"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "8 - 12 USD/hour",
+    "industry": "Education / Administration",
+    "image_url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2"
+  },
+  {
+    "id": 12,
+    "title": "Lab Assistant",
+    "description": "Assist in laboratory experiments, maintain equipment, and record observations.",
+    "required_skills": ["Lab Safety", "Observation", "Organization", "Teamwork"],
+    "educational_path": "Undergrad in Science or related field",
+    "salary_range": "10 - 15 USD/hour",
+    "industry": "Science / Research",
+    "image_url": "https://plus.unsplash.com/premium_photo-1663126348849-4f72b4a39cc0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 13,
+    "title": "IT Support Intern",
+    "description": "Assist in troubleshooting hardware/software issues and providing technical support.",
+    "required_skills": ["Problem-solving", "Basic Networking", "Communication"],
+    "educational_path": "Undergrad in IT, CS, or related field",
+    "salary_range": "10 - 18 USD/hour",
+    "industry": "Technology",
+    "image_url": "https://plus.unsplash.com/premium_photo-1726797757852-d718e284b86d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SVQlMjBTdXBwb3J0JTIwSW50ZXJufGVufDB8fDB8fHww"
+  },
+  {
+    "id": 14,
+    "title": "Photography Assistant",
+    "description": "Help photographers with equipment setup, lighting, and event photography.",
+    "required_skills": ["Camhera Handling", "Creativity", "Organization"],
+    "educational_path": "Any undergraduate student with interest in photography",
+    "salary_range": "10,000 - 18,000 USD/year",
+    "industry": "Media",
+    "image_url": "https://plus.unsplash.com/premium_photo-1716328268374-c2dc47dcdef2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8UGhvdG9ncmFwaHklMjBBc3Npc3RhbnR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 15,
+    "title": "Retail Sales Assistant",
+    "description": "Assist customers, manage inventory, and handle sales transactions.",
+    "required_skills": ["Customer Service", "Communication", "Organization"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "10 - 15 USD/hour",
+    "industry": "Retail",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661491915266-71519cadf636?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UmV0YWlsJTIwU2FsZXMlMjBBc3Npc3RhbnR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 16,
+    "title": "Intern - Human Resources",
+    "description": "Assist HR team with recruitment, documentation, and employee record management.",
+    "required_skills": ["Communication", "Organization", "Basic HR Knowledge"],
+    "educational_path": "Undergrad in Business or related field",
+    "salary_range": "10,000 - 18,000 USD/year",
+    "industry": "Business / HR",
+    "image_url": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+  },
+  {
+    "id": 17,
+    "title": "Content Writing Intern",
+    "description": "Write blogs, social media posts, and marketing content.",
+    "required_skills": ["Writing", "Creativity", "SEO Basics", "Editing"],
+    "educational_path": "Undergrad in English, Journalism, or related field",
+    "salary_range": "8,000 - 15,000 USD/year",
+    "industry": "Media / Marketing",
+    "image_url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2"
+  },
+  {
+    "id": 18,
+    "title": "Junior App Developer",
+    "description": "Assist in creating mobile apps and testing functionality.",
+    "required_skills": ["Java / Kotlin / Swift Basics", "Problem-solving", "Teamwork"],
+    "educational_path": "Undergrad in CS, Software Engineering, or IT",
+    "salary_range": "12,000 - 20,000 USD/year",
+    "industry": "Technology",
+    "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  },
+  {
+    "id": 19,
+    "title": "Marketing Intern",
+    "description": "Help with campaigns, social media strategy, and market research.",
+    "required_skills": ["Creativity", "Communication", "Research", "Analytics Basics"],
+    "educational_path": "Undergrad in Marketing or Business",
+    "salary_range": "8,000 - 15,000 USD/year",
+    "industry": "Marketing / Business",
+    "image_url": "https://plus.unsplash.com/premium_photo-1726804880693-8fcdd773ce80?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8TWFya2V0aW5nJTIwSW50ZXJufGVufDB8fDB8fHww"
+  },
+  {
+    "id": 20,
+    "title": "Fitness Trainer Assistant",
+    "description": "Support trainers, demonstrate exercises, and track client progress.",
+    "required_skills": ["Communication", "Motivation", "Basic Fitness Knowledge"],
+    "educational_path": "Undergrad student interested in fitness or sports",
+    "salary_range": "8,000 - 15,000 USD/year",
+    "industry": "Healthcare / Sports",
+    "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "id": 21,
+    "title": "Video Editing Intern",
+    "description": "Edit videos for social media, marketing campaigns, and presentations.",
+    "required_skills": ["Video Editing Software", "Creativity", "Attention to Detail"],
+    "educational_path": "Undergrad student with video editing interest",
+    "salary_range": "8,000 - 15,000 USD/year",
+    "industry": "Media / Marketing",
+    "image_url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2"
+  },
+  {
+    "id": 22,
+    "title": "Hospital Intern / Assistant",
+    "description": "Assist nurses and doctors in non-critical tasks, patient records, and hospital administration.",
+    "required_skills": ["Communication", "Teamwork", "Organization"],
+    "educational_path": "Undergrad in Pre-med, Nursing, or Life Sciences",
+    "salary_range": "10 - 18 USD/hour",
+    "industry": "Healthcare",
+    "image_url": "https://plus.unsplash.com/premium_photo-1675807264002-74250202f195?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTd8fEhvc3BpdGFsJTIwSW50ZXJuJTIwJTJGJTIwQXNzaXN0YW50fGVufDB8fDB8fHww"
+  },
+  {
+    "id": 23,
+    "title": "Front Desk / Receptionist",
+    "description": "Greet visitors, manage calls, and perform basic office administration tasks.",
+    "required_skills": ["Communication", "Organization", "Professionalism"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "8 - 12 USD/hour",
+    "industry": "Business / Services",
+    "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+  },
+  {
+    "id": 24,
+    "title": "Junior Data Analyst",
+    "description": "Assist in collecting, cleaning, and analyzing data for projects.",
+    "required_skills": ["Excel / Google Sheets", "Basic SQL", "Analytical Thinking"],
+    "educational_path": "Undergrad in CS, Statistics, or related field",
+    "salary_range": "12,000 - 20,000 USD/year",
+    "industry": "Technology / Business",
+    "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c"
+  },
+  {
+    "id": 25,
+    "title": "Tour Guide Assistant",
+    "description": "Help conduct tours, guide tourists, and provide information.",
+    "required_skills": ["Communication", "Organization", "Knowledge of Local Culture"],
+    "educational_path": "Undergrad student with good communication skills",
+    "salary_range": "8,000 - 15,000 USD/year",
+    "industry": "Hospitality / Tourism",
+    "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "id": 26,
+    "title": "E-commerce Assistant",
+    "description": "Help manage online store products, update listings, and track orders.",
+    "required_skills": ["Basic Excel", "Attention to Detail", "Communication"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "10,000 - 18,000 USD/year",
+    "industry": "Business / Retail",
+    "image_url": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+  },
+  {
+    "id": 27,
+    "title": "Junior Lab Technician",
+    "description": "Support lab operations, maintain samples, and assist researchers.",
+    "required_skills": ["Lab Techniques", "Attention to Detail", "Teamwork"],
+    "educational_path": "Undergrad in Science / Biotechnology",
+    "salary_range": "10 - 18 USD/hour",
+    "industry": "Research / Science",
+    "image_url": "https://media.istockphoto.com/id/1453411199/photo/genius-child-assembly-and-run-robot-learning-kit-science-and-technology-classroom.webp?a=1&b=1&s=612x612&w=0&k=20&c=iz2Ks1dpO02ZrvFFADw8bXMz-k-UScadVPZANBIJltQ="
+  },
+  {
+    "id": 28,
+    "title": "Intern - Event Marketing",
+    "description": "Assist in event promotions, social media campaigns, and audience engagement.",
+    "required_skills": ["Communication", "Creativity", "Social Media"],
+    "educational_path": "Undergrad in Marketing / Business",
+    "salary_range": "8,000 - 15,000 USD/year",
+    "industry": "Marketing / Events",
+    "image_url": "https://images.unsplash.com/photo-1712903276040-c99b32a057eb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8SW50ZXJuJTIwJTIwJTIwRXZlbnQlMjBNYXJrZXRpbmd8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 29,
+    "title": "Junior Research Analyst",
+    "description": "Support market research, collect data, and prepare reports.",
+    "required_skills": ["Research", "Excel / Google Sheets", "Analytical Thinking"],
+    "educational_path": "Undergrad in Business, Economics, or related field",
+    "salary_range": "10,000 - 18,000 USD/year",
+    "industry": "Business / Research",
+    "image_url":" https://images.unsplash.com/photo-1578496479914-7ef3b0193be3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJlc2VhcmNoJTIwYW5hbHlzdHxlbnwwfHwwfHx8MA%3D%3D "
+  },
+  {
+    "id": 30,
+    "title": "Junior UX Designer",
+    "description": "Assist in designing interfaces, user testing, and prototyping.",
+    "required_skills": ["Figma / Sketch Basics", "Creativity", "Communication"],
+    "educational_path": "Undergrad in Design or CS",
+    "salary_range": "10,000 - 20,000 USD/year",
+    "industry": "Technology / Design",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661593486413-d279b1a02e28?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VVglMjBkZXNpZ25lcnxlbnwwfHwwfHx8MA%3D%3D "
+  },
+  {
+    "id": 31,
+    "title": "Teaching Assistant - Online Courses",
+    "description": "Help instructors with online classes, answer student queries, and grade assignments.",
+    "required_skills": ["Communication", "Organization", "Subject Knowledge"],
+    "educational_path": "Strong academic record in undergraduate studies",
+    "salary_range": "10 - 18 USD/hour",
+    "industry": "Education / E-learning",
+    "image_url": "https://images.unsplash.com/photo-1586388750948-16833a41ee95?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fE9ubGluZSUyMCUyMFRlYWNoaW5nJTIwQXNzaXN0YW50fGVufDB8fDB8fHww "
+  },
+  {
+    "id": 32,
+    "title": "Junior Content Moderator",
+    "description": "Review online content, flag inappropriate material, and maintain platform standards.",
+    "required_skills": ["Attention to Detail", "Communication", "Basic Tech Skills"],
+    "educational_path": "Any undergraduate student",
+    "salary_range": "8 - 15 USD/hour",
+    "industry": "Media / Technology",
+    "image_url": "https://images.unsplash.com/photo-1622035715830-ff45e01f5070?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fENvbnRlbnQlMjBNb2RlcmF0b3J8ZW58MHx8MHx8fDA%3D "
+  },
+  {
+    "id": 33,
+    "title": "Junior Software Tester",
+    "description": "Assist in testing applications, reporting issues, and learning QA processes.",
+    "skills": ["Problem-solving", "Attention to Detail", "Basic Testing Knowledge"],
+    "educational_path": "Undergrad in CS, IT, or Software Engineering",
+    "salary_range": "12,000 - 18,000 USD/year",
+    "industry": "Technology",
+    "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "interest": "leadership & management",
+    "questions": [
+      { "q": "Do you prefer leading a team over working alone?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy managing people and delegating tasks?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to take responsibility for big projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like motivating others to achieve goals?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you good at resolving team conflicts?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like setting deadlines and ensuring they are met?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Mostly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy strategic planning for a company?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like taking accountability for team performance?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy mentoring juniors in your workplace?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like handling pressure in decision-making?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Mostly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you comfortable speaking in front of large groups?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy negotiating deals or agreements?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to lead an international team someday?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like analyzing business challenges?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Are you motivated by reaching leadership positions?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Project Manager", "Operations Manager"]
+  },
+  {
+    "interest": "technology & innovation",
+    "questions": [
+      { "q": "Do you enjoy exploring new technologies?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to lead digital transformation projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like working with AI and data-driven tools?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy learning about cloud computing?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about blockchain or Web3?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like exploring cybersecurity topics?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not at all", "v": 1 }] },
+      { "q": "Would you like to build a tech startup?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like automating work with scripts or tools?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Are you excited by IoT and smart devices?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like leading teams of developers or engineers?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you follow industry tech trends regularly?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy developing innovative apps?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like experimenting with VR/AR?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you interested in becoming a CTO someday?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like solving IT-related problems at work?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["IT Director", "Chief Technology Officer (CTO)"]
+  },
+  {
+    "interest": "finance & business",
+    "questions": [
+      { "q": "Do you enjoy analyzing financial data?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like preparing budgets and reports?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy working in corporate finance?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like monitoring market trends?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you interested in investment banking?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy planning business strategies?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you like analyzing risks before decisions?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy managing client portfolios?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you follow stock market regularly?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about entrepreneurship?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like working with spreadsheets and Excel?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy financial consulting?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like solving business case studies?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy negotiating business deals?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to work as a CFO someday?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Financial Analyst", "Business Consultant"]
+  },
+  {
+    "interest": "healthcare & wellness",
+    "questions": [
+      { "q": "Do you enjoy helping people stay healthy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to manage healthcare services?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like promoting mental wellness at work?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy health awareness programs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to work in hospital administration?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like studying nutrition and fitness?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Are you curious about health-tech startups?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy community healthcare projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to organize corporate wellness programs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy training others about first aid?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like supporting employee work-life balance?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to become a healthcare manager?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you motivated by improving patient care?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like coordinating with doctors and nurses?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy careers in public health?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Healthcare Administrator", "Wellness Coordinator"]
+  },
+  {
+    "interest": "creative & design",
+    "questions": [
+      { "q": "Do you enjoy creating visual designs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you like working on branding projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Would you enjoy designing user interfaces?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like video editing?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Not at all", "v": 1 }] },
+      { "q": "Are you curious about 3D animation?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy drawing or sketching?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like using Photoshop/Canva?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy creative advertising work?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like UI/UX design projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Are you excited about motion graphics?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to design logos?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy storytelling through design?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like presenting your creative work?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy keeping up with design trends?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy working as a Creative Director?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Graphic Designer", "Creative Director"]
+  },
+  {
+    "interest": "education & training",
+    "questions": [
+      { "q": "Do you enjoy teaching others new skills?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to run training workshops?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy mentoring younger professionals?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you comfortable giving presentations?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like creating educational content?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy corporate training roles?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like coaching people to achieve goals?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy being a university lecturer?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy designing training programs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like motivating others through education?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Mostly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy a career in adult education?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like organizing seminars or conferences?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you interested in instructional design?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy giving feedback to learners?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to build an online course someday?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Corporate Trainer", "University Lecturer"]
+  }
+]

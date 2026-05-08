@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Raza",
+    "field": "High School Science",
+    "story": "Ali started in grade 9 with little confidence but became a top performer by grade 12.",
+    "img": "images/ali.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sara Malik",
+    "field": "Mathematics",
+    "story": "From struggling with algebra to winning a national math competition.",
+    "img": "images/sara.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hassan Javed",
+    "field": "Debating",
+    "story": "Won the All-Pakistan debating competition while still in grade 11.",
+    "img": "images/hassan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mehwish Khan",
+    "field": "Arts",
+    "story": "Transformed her passion for sketching into award-winning artwork at school exhibitions.",
+    "img": "images/mehwish.jpg"
+  }
+]

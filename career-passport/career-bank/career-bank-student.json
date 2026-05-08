@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "Title": "Explore Coding",
+    "Description": "Try making small games or apps using Scratch, Python, or JavaScript.",
+    "Required Skills": ["Logic", "Problem-solving", "Creativity"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1565229284535-2cbbe3049123?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Industry": "Technology"
+  },
+  {
+    "id": 2,
+    "Title": "Join Science Club",
+    "Description": "Do fun experiments and learn how science works in real life.",
+    "Required Skills": ["Observation", "Curiosity", "Teamwork"],
+    "Educational Path": "8-12",
+    "Salary Range": "Voluntary/Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1595311182166-d63273ddc386?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Sm9pbiUyMFNjaWVuY2UlMjBDbHVifGVufDB8fDB8fHww",
+    "Industry": "Science"
+  },
+  {
+    "id": 3,
+    "Title": "Math Competitions",
+    "Description": "Participate in contests like Math Olympiad to strengthen problem-solving skills.",
+    "Required Skills": ["Mathematics", "Logic", "Focus"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://media.istockphoto.com/id/588620388/photo/the-young-girl.webp?a=1&b=1&s=612x612&w=0&k=20&c=vtA_gyrIyRzFFyfcH-a9uUOu1g-0ENUFwrA8PsX3T8A=",
+    "Industry": "Mathematics"
+  },
+  {
+    "id": 4,
+    "Title": "Creative Writing",
+    "Description": "Write stories, poems, or blogs to improve communication skills.",
+    "Required Skills": ["Creativity", "Language", "Expression"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3JlYXRpdmUlMjB3cml0aW5nfGVufDB8fDB8fHww",
+    "Industry": "Arts & Literature"
+  },
+  {
+    "id": 5,
+    "Title": "Public Speaking Club",
+    "Description": "Join debate or speech clubs to boost confidence and communication.",
+    "Required Skills": ["Confidence", "Speaking", "Persuasion"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1706546717624-b7b4aa9394c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8UHVibGljJTIwU3BlYWtpbmclMjBDbHVifGVufDB8fDB8fHww",
+    "Industry": "Communication & Leadership"
+  },
+  {
+    "id": 6,
+    "Title": "Volunteer Work",
+    "Description": "Help your community through small projects or charity events.",
+    "Required Skills": ["Empathy", "Teamwork", "Responsibility"],
+    "Educational Path": "9-12",
+    "Salary Range": "Voluntary",
+    "Image/Icon": "https://media.istockphoto.com/id/2199033995/photo/high-five-volunteer-and-charity-in-teamwork-for-community-service-project-or-nonprofit.webp?a=1&b=1&s=612x612&w=0&k=20&c=OlZLmijVcL6KrA2c9egZcDaE504IURpCltnm0dZyJpc=",
+    "Industry": "Community Service"
+  },
+  {
+    "id": 7,
+    "Title": "Learn a Foreign Language",
+    "Description": "Pick a new language to improve communication and open future study options.",
+    "Required Skills": ["Language", "Memory", "Cultural Awareness"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1750053353292-a1dacac5fae4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTN8fExlYXJuJTIwYSUyMEZvcmVpZ24lMjBMYW5ndWFnZSUyMGJvb2t8ZW58MHx8MHx8fDA%3D",
+    "Industry": "Languages & Culture"
+  },
+  {
+    "id": 8,
+    "Title": "Join Robotics Club",
+    "Description": "Build robots and learn programming and mechanical skills.",
+    "Required Skills": ["Engineering", "Coding", "Teamwork"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1677094310956-7f88ae5f5c6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Sm9pbiUyMFJvYm90aWNzJTIwQ2x1YnxlbnwwfHwwfHx8MA%3D%3D",
+    "Industry": "Engineering & Technology"
+  },
+  {
+    "id": 9,
+    "Title": "Art & Design",
+    "Description": "Draw, paint, or design to explore your creative side.",
+    "Required Skills": ["Creativity", "Imagination", "Observation"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1677679817704-ab4ebb1ddf4d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Industry": "Arts & Design"
+  },
+  {
+    "id": 10,
+    "Title": "Science Fair Projects",
+    "Description": "Do simple research projects to explore scientific curiosity.",
+    "Required Skills": ["Research", "Experimentation", "Presentation"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1663089905440-78880eab98c1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8U2NpZW5jZSUyMEZhaXIlMjBQcm9qZWN0c3xlbnwwfHwwfHx8MA%3D%3D",
+    "Industry": "Science & Research"
+  },
+  {
+    "id": 11,
+    "Title": "Music Lessons",
+    "Description": "Learn an instrument or sing to develop discipline and creativity.",
+    "Required Skills": ["Creativity", "Discipline", "Focus"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://media.istockphoto.com/id/928088742/photo/teaching-to-play-music.webp?a=1&b=1&s=612x612&w=0&k=20&c=sXynctvMHyuC2lQkZZ1xkF0R3bFJFNVnnQs_jCtpG9w=",
+    "Industry": "Music & Performing Arts"
+  },
+  {
+    "id": 12,
+    "Title": "Sports Teams",
+    "Description": "Join school teams to stay fit and learn teamwork.",
+    "Required Skills": ["Teamwork", "Discipline", "Leadership"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?q=80&w=1007&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Industry": "Sports & Fitness"
+  },
+  {
+    "id": 13,
+    "Title": "Photography",
+    "Description": "Take photos and learn editing skills to tell stories visually.",
+    "Required Skills": ["Creativity", "Observation", "Patience"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1682097066897-209d0d9e9ae5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8UGhvdG9ncmFwaHl8ZW58MHx8MHx8fDA%3D",
+    "Industry": "Photography & Media"
+  },
+  {
+    "id": 14,
+    "Title": "Journalism Club",
+    "Description": "Write articles or reports for your school newspaper or blog.",
+    "Required Skills": ["Writing", "Research", "Communication"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://media.istockphoto.com/id/1776624809/photo/journalistic-interview.webp?a=1&b=1&s=612x612&w=0&k=20&c=axSU_WfQwk1EqhFYknwWYveVME7RMKzCPmxfcogZVtw=",
+    "Industry": "Media & Journalism"
+  },
+  {
+    "id": 15,
+    "Title": "Environmental Projects",
+    "Description": "Work on projects to protect nature and learn about sustainability.",
+    "Required Skills": ["Awareness", "Teamwork", "Creativity"],
+    "Educational Path": "9-12",
+    "Salary Range": "Voluntary",
+    "Image/Icon": "https://media.istockphoto.com/id/1435661952/photo/children-holding-a-planet-outdoors.webp?a=1&b=1&s=612x612&w=0&k=20&c=dtchJEtnyNUgN2rIEHBB2GiXp2iV4uTxLqpu87eB2bU=",
+    "Industry": "Environment & Sustainability"
+  },
+  {
+    "id": 16,
+    "Title": "Internships / Job Shadowing",
+    "Description": "Spend a day observing professionals to learn about careers.",
+    "Required Skills": ["Observation", "Learning", "Networking"],
+    "Educational Path": "11-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1661335260175-5735a1d487e1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8SW50ZXJuc2hpcHMlMjAlMkYlMjBKb2IlMjBTaGFkb3dpbmd8ZW58MHx8MHx8fDA%3D",
+    "Industry": "Career Exploration"
+  },
+  {
+    "id": 17,
+    "Title": "Attend Workshops",
+    "Description": "Participate in workshops on art, coding, science, or leadership.",
+    "Required Skills": ["Learning", "Practice", "Curiosity"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1646579886135-068c73800308?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QXR0ZW5kJTIwV29ya3Nob3BzfGVufDB8fDB8fHww",
+    "Industry": "General Learning"
+  },
+  {
+    "id": 18,
+    "Title": "start the club",
+    "Description": "Lead a school club for something you are passionate about.",
+    "Required Skills": ["Leadership", "Organization", "Teamwork"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1674536138437-2eb1c95fc05f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHN0YXJ0JTIwdGhlJTIwY2x1YnxlbnwwfHwwfHx8MA%3D%3D",
+    "Industry": "Leadership & Organization"
+  },
+  {
+    "id": 19,
+    "Title": "STEM Competitions",
+    "Description": "Join contests like science, robotics, or math competitions.",
+    "Required Skills": ["Problem-solving", "Teamwork", "Creativity"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://media.istockphoto.com/id/1867279355/photo/students-experimenting-with-plc-devices-under-teachers-observation.webp?a=1&b=1&s=612x612&w=0&k=20&c=X0Nj7-s6YpkfgJp5NAkgOjd0LlIs9YJ1E7VC-vrlfzY=",
+    "Industry": "STEM"
+  },
+  {
+    "id": 20,
+    "Title": "Write a Blog or YouTube Channel",
+    "Description": "Share your hobbies, learning, or projects online.",
+    "Required Skills": ["Creativity", "Writing", "Communication"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1649180543887-158357417159?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V3JpdGUlMjBhJTIwQmxvZyUyMG9yJTIwWW91VHViZSUyMENoYW5uZWx8ZW58MHx8MHx8fDA%3D",
+    "Industry": "Digital Media & Content Creation"
+  },
+  {
+    "id": 21,
+    "Title": "Entrepreneurship Projects",
+    "Description": "Start a small business or project to learn business basics.",
+    "Required Skills": ["Leadership", "Creativity", "Finance"],
+    "Educational Path": "10-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1740479048952-e493c94bbf6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V3JpdGUlMjBhJTIwQmxvZyUyMG9yJTIwWW91VHViZSUyMENoYW5uZWx8ZW58MHx8MHx8fDA%3D",
+    "Industry": "Business & Entrepreneurship"
+  },
+  {
+    "id": 22,
+    "Title": "Learn Animation",
+    "Description": "Create animations or cartoons using software tools.",
+    "Required Skills": ["Creativity", "Technical skills", "Storytelling"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://media.istockphoto.com/id/2172171270/photo/asian-business-people-team-brainstorm-meeting-in-sustainable-corporate-office-presentation.webp?a=1&b=1&s=612x612&w=0&k=20&c=opgGmYqtC3yzTCkzMlkeoqTUDNiA4bxV-RxIIQd7XKw=",
+    "Industry": "Animation & Multimedia"
+  },
+  {
+    "id": 23,
+    "Title": "Volunteer Abroad Programs",
+    "Description": "Participate in exchange or volunteering programs to learn about cultures.",
+    "Required Skills": ["Adaptability", "Teamwork", "Cultural Awareness"],
+    "Educational Path": "11-12",
+    "Salary Range": "Voluntary",
+    "Image/Icon": "https://media.istockphoto.com/id/1156807425/photo/study-abroad-concept.webp?a=1&b=1&s=612x612&w=0&k=20&c=qnUE-cjX23SDAgNSl-8ns5Cpe7GzmnHOyxg5v2ds1FQ=",
+    "Industry": "Community Service & Culture"
+  },
+  {
+    "id": 24,
+    "Title": "Attend University Open Days",
+    "Description": "Visit colleges to see courses, meet professors, and explore options.",
+    "Required Skills": ["Research", "Planning", "Curiosity"],
+    "Educational Path": "11-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1691533145674-881e1c685d8a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QXR0ZW5kJTIwVW5pdmVyc2l0eSUyME9wZW4lMjBEYXlzfGVufDB8fDB8fHww",
+    "Industry": "Education"
+  },
+  {
+    "id": 25,
+    "Title": "Learn Video Editing",
+    "Description": "Make cool videos and learn editing software.",
+    "Required Skills": ["Creativity", "Technical skills", "Patience"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVhcm4lMjBWaWRlbyUyMEVkaXRpbmd8ZW58MHx8MHx8fDA%3D",
+    "Industry": "Media & Film"
+  },
+  {
+    "id": 26,
+    "Title": "Start a Science Journal",
+    "Description": "Document experiments, observations, or interesting facts.",
+    "Required Skills": ["Observation", "Writing", "Research"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1598620616337-cb8f766489bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fFN0YXJ0JTIwYSUyMFNjaWVuY2UlMjBKb3VybmFsfGVufDB8fDB8fHww",
+    "Industry": "Science & Research"
+  },
+  {
+    "id": 27,
+    "Title": "Debate Competitions",
+    "Description": "Participate in debates to improve critical thinking and speaking.",
+    "Required Skills": ["Critical thinking", "Communication", "Confidence"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1689701711439-e54f039f8d97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGViYXRlJTIwQ29tcGV0aXRpb25zfGVufDB8fDB8fHww",
+    "Industry": "Communication & Leadership"
+  },
+  {
+    "id": 28,
+    "Title": "Astronomy Club",
+    "Description": "Learn about stars, planets, and space science.",
+    "Required Skills": ["Observation", "Curiosity", "Science"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://media.istockphoto.com/id/2204527042/photo/lunar-eclipse-and-milky-way.webp?a=1&b=1&s=612x612&w=0&k=20&c=khbakoxoT8e4FTDb8mYAjOOR8Sb_0QW5TClk_MX2sqc=",
+    "Industry": "Astronomy & Space Science"
+  },
+  {
+    "id": 29,
+    "Title": "Build a Portfolio",
+    "Description": "Keep a record of your projects, artworks, or achievements.",
+    "Required Skills": ["Organization", "Creativity", "Planning"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1663100794696-6b7afa02016c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fEJ1aWxkJTIwYSUyMFBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D",
+    "Industry": "Personal Development"
+  },
+  {
+    "id": 30,
+    "Title": "Learn Photography Editing",
+    "Description": "Edit photos to improve creativity and technical skills.",
+    "Required Skills": ["Creativity", "Technical skills", "Attention to detail"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1661389748409-0a8f74602f34?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TGVhcm4lMjBQaG90b2dyYXBoeSUyMEVkaXRpbmd8ZW58MHx8MHx8fDA%3D",
+    "Industry": "Photography & Media"
+  },
+  {
+    "id": 31,
+    "Title": "Coding Competitions",
+    "Description": "Take part in contests like hackathons or online coding challenges.",
+    "Required Skills": ["Coding", "Problem-solving", "Logic"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1676150789916-2c7d1fdda6b9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q29kaW5nJTIwQ29tcGV0aXRpb25zfGVufDB8fDB8fHww",
+    "Industry": "Technology"
+  },
+  {
+    "id": 32,
+    "Title": "Science Podcasts & Videos",
+    "Description": "Watch or listen to science content to learn in a fun way.",
+    "Required Skills": ["Curiosity", "Learning", "Observation"],
+    "Educational Path": "8-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://images.unsplash.com/photo-1695806109391-1cb4f6b38ae6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U2NpZW5jZSUyMFBvZGNhc3RzJTIwJTI2JTIwVmlkZW9zfGVufDB8fDB8fHww",
+    "Industry": "Science Communication"
+  },
+  {
+    "id": 33,
+    "Title": "Plan a Mini Event",
+    "Description": "Organize a small school event or project to learn planning skills.",
+    "Required Skills": ["Organization", "Leadership", "Creativity"],
+    "Educational Path": "9-12",
+    "Salary Range": "Varies",
+    "Image/Icon": "https://plus.unsplash.com/premium_photo-1706544427087-9f8747c5c675?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGxhbiUyMGElMjBNaW5pJTIwRXZlbnR8ZW58MHx8MHx8fDA%3D",
+    "Industry": "Event Management"
+  }
+]

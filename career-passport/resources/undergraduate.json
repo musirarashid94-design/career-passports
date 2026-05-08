@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Internship Preparation Guide",
+    "type": "Article",
+    "description": "A step-by-step guide to preparing your resume, cover letter, and interview skills for internships.",
+    "link": "https://sd2.org/internship-prep-checklist/",
+    "img": "images/internship.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Coding Projects for Beginners",
+    "type": "PDF",
+    "description": "A collection of beginner-friendly projects in Python, Java, and JavaScript.",
+    "link": "https://r.search.yahoo.com/rdclks/dWU9MzJocWZsOWtjOGJzbCZ1dD0xNzU3Njg3NzAxOTk4JnVvPTc5MDI3NTczMzI1Njk3Jmx0PTImcz0xJmVzPUZEejQ4eFRhTms2b2wwOGl6UjdSbGtuekllNEt4YThzdU1QbnprOUpMYkw0eERGdUlSMjVHM1JVUzBqY3J4cXV0ZjU4Lm01Vmx4ejE2U28t/RV=2/RE=1760279702/RO=14/RU=https%3a%2f%2fwww.bing.com%2faclick%3fld%3de8ZUtQnSsmA7sshAi1o7b4_jVUCUyIRnYY24W9s9Wt0OK1gIUWayGwtvMjfwTsDF_XStkrFE4tHZ_7DcT_-EwWBg96j6ASFxZj9Uu2W9vY2uvogL1p2g7k50FTmVwvqgvX7fwlFMMl0WYOaXKwavVQvZ1rOfrdO23eKcpeKj2IERH8E9MWeKV7g7QnHlMRIf30629peA%26u%3daHR0cHMlM2ElMmYlMmZ3d3cuY29kZWNhZGVteS5jb20lMmZsZWFybiUyZnBhdGhzJTJmY29tcHV0ZXItc2NpZW5jZSUzZnV0bV9pZCUzZHRfa3dkLTc5MDI3OTE2MTMxNDE5JTNhbG9jLTE0NCUzYWFnXzEyNjQ0Mzg5OTM4MTEwOTIlM2FjcF8zNzAzMTQ1MTglM2FuX28lM2FkX2MlMjZtc2Nsa2lkJTNkOWI5ZmJiMjcyNzA3MTAyZTIwZDVkM2UzMDg5MWJiMDclMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RST1clMjUyMC0lMjUyMEV4YWN0JTI2dXRtX3Rlcm0lM2Rjb2RpbmclMjUyMHByb2plY3RzJTI1MjBmb3IlMjUyMGJlZ2lubmVycyUyNnV0bV9jb250ZW50JTNkcHJvZ3JhbW1pbmc%26rlid%3d9b9fbb272707102e20d5d3e30891bb07/RK=2/RS=6NNyXGq94pDUJqT3nDJ6AZB9f_U-;_ylt=Awr9zhKVL8RoZBoDlGlXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA292LXRvcA--;_ylc=X3IDMgRydAMw?IG=0afdce12d8414e0587022540aaa22c83",
+    "img": "images/codingproj.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Time Management Hacks for College",
+    "type": "Video",
+    "description": "Proven methods to balance academics, work, and personal life as a university student.",
+    "link": "https://r.search.yahoo.com/_ylt=AwrO7em_NcRo_l8DzbNXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1758898880/RO=10/RU=https%3a%2f%2fwww.inc.com%2fjohn-rampton%2fnothing-will-change-without-time-management-heres-.html/RK=2/RS=RlpwyMP8iURrECUB07AOla5RTiA-",
+    "img": "images/timemanag.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Research Paper Writing Guide",
+    "type": "Article",
+    "description": "Covers how to structure and reference your undergraduate research papers effectively.",
+    "link": "https://r.search.yahoo.com/_ylt=Awr49PfZNcRoB44Ec5hXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1758898905/RO=10/RU=https%3a%2f%2fwww.scribbr.com%2fcategory%2fresearch-paper%2f/RK=2/RS=85Hq1jvnk8Xqaa2P1uJAWrFEcck-",
+    "img": "images/research.jpg"
+  }
+]

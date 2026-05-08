@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Khan",
+    "field": "Computer Science",
+    "story": "Built a mobile app during his studies that reached 50k downloads.",
+    "img": "images/ahmed.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fatima Ali",
+    "field": "Business Administration",
+    "story": "Interned at a multinational and landed a full-time role after graduation.",
+    "img": "images/fatima.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Usman Tariq",
+    "field": "Electrical Engineering",
+    "story": "Developed a low-cost solar panel prototype that won a national innovation award.",
+    "img": "images/usman.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nida Awan",
+    "field": "Psychology",
+    "story": "Started a mental health awareness campaign at her university that gained national media attention.",
+    "img": "images/nida.jpg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Career Growth Strategies",
+    "type": "Article",
+    "description": "Learn how to plan career growth, upskill, and move into leadership positions.",
+    "link": "https://r.search.yahoo.com/_ylt=AwrO8Ae7MMRoYaoENvZXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1758897595/RO=10/RU=https%3a%2f%2fwww.indeed.com%2fcareer-advice%2fcareer-development%2fprofessional-growth/RK=2/RS=oBSbMzXjHhkbw72kj_OZ036YiLA-",
+    "img": "images/strategi.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Effective Communication at Work",
+    "type": "Video",
+    "description": "Master workplace communication and presentation skills to excel in your role.",
+    "link": "https://r.search.yahoo.com/_ylt=AwrgwuPcMMRoKacD7gdXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1758897628/RO=10/RU=https%3a%2f%2fwww.forbes.com%2fadvisor%2fbusiness%2feffective-communication-workplace%2f/RK=2/RS=_8w6iZA0Ov04Bv3BEcrFgVvM9uE-",
+    "img": "images/comui.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Project Management Toolkit",
+    "type": "PDF",
+    "description": "Templates and tools to manage projects, deadlines, and teams efficiently.",
+    "link": "https://r.search.yahoo.com/rdclks/dWU9NWRqNmp0dGtjOGM3aSZ1dD0xNzU3Njg4MDUwNzA5JnVvPTgxMzYzOTc2ODc3OTMxJmx0PTImcz0xJmVzPV9tNlJqUkpSVTJNVXRydFdrYTFQcHRfay5ESTZBUTVSWEhNOVlKeFN3LlpjSmRfeTBLNHBOY2lHWHRWSmNtN2JaTkxwZ1Q5Q0JRVFZIaVlC/RV=2/RE=1760280051/RO=14/RU=https%3a%2f%2fwww.bing.com%2faclick%3fld%3de8etL3zTrhLBd6skuAIyZzEjVUCUxR3U4TENGVSFjAkIiRmJsE5GBO3SbdSrzmoeCrO91X9iXqpb3itRDs_Gqa0fAv67GCTX3Bou2Ur_-kq0xgTW4a1aoDzi74MnVw3W6I425-yZF9SwPst3UKVBPEO81e22WbDTdbpkhDe2QGRrfs-cM9m686sNdGXlBtiYoKuDJpkA%26u%3daHR0cHMlM2ElMmYlMmZ3d3cuYXRsYXNzaWFuLmNvbSUyZnNvZnR3YXJlJTJmamlyYSUzZmNhbXBhaWduJTNkNDcwMDk2NTY3JTI2YWRncm91cCUzZDEzMDE4MjIyMDM5NjI2NDYlMjZ0YXJnZXRpZCUzZGt3ZC04MTM2NDEyNzY3NDQwMyUzYWxvYy0xNDQlMjZtYXRjaHR5cGUlM2RwJTI2bmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2ZGV2aWNlX21vZGVsJTNkJTI2Y3JlYXRpdmUlM2QlMjZrZXl3b3JkJTNkcGxhbm5pbmclMjUyMHRvb2wlMjUyMHNvZnR3YXJlJTI2cGxhY2VtZW50JTNkJTI2dGFyZ2V0JTNkJTI2ZHNfZWlkJTNkNzAwMDAwMDAxNTU4NTAxJTI2ZHNfZTElM2RHT09HTEUlMjZtc2Nsa2lkJTNkNjFmMGNlZjFhMWFiMTg0M2RhOTlhNjM1OTE1OWRmYjM%26rlid%3d61f0cef1a1ab1843da99a6359159dfb3/RK=2/RS=VuRkj9mxoZV4xq1EUr5ma5XCsaA-;_ylt=AwrjbTryMMRoKqIEvQ9XNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA292LXRvcA--;_ylc=X3IDMgRydAMw?IG=0ae36d3a86794b0a87023e46f3b8be54",
+    "img": "images/OIP.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Work-Life Balance for Professionals",
+    "type": "Article",
+    "description": "Practical tips on managing stress and achieving a healthier work-life balance.",
+    "link": "https://r.search.yahoo.com/_ylt=AwrOtBwMMcRoCSwE9NZXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1758897677/RO=10/RU=https%3a%2f%2fwww.joinglyph.com%2fblog%2fhow-to-build-a-work-life-balance-routine/RK=2/RS=ji9XNPRrv4E2gW8Batmhm0o1OAY-",
+    "img": "images/strategi.jpg"
+  }
+]

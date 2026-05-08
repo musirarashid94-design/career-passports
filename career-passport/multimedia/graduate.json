@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Transitioning from Academia to Industry",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://youtu.be/Hms98aMbpSQ?si=rIZxOXumoJSDk09r",
+    "description": "Learn how graduates can shift into professional careers."
+  },
+  {
+    "id": 2,
+    "title": "Graduate Research Tips",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.gradschoolresources.com/research-guide.pdf",
+    "description": "Practical guide for writing research papers and practise theses."
+  },
+  {
+    "id": 3,
+    "title": "Pursuing a PhD Abroad",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.gradschoolresources.com/phd-abroad.pdf",
+    "description": "Requirements and funding options for international PhD programs."
+  },
+  {
+    "id": 4,
+    "title": "How to Build an Academic Portfolio",
+    "category": "job roles",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/VNcA5Q6eR3E",
+    "description": "Guidelines for publishing papers and presenting at conferences."
+  },
+  {
+    "id": 5,
+    "title": "Graduate Mental Health Podcast",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+    "description": "Addressing isolation and stress in graduate school."
+  },
+  {
+    "id": 6,
+    "title": "Networking for Graduate Students",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/YyJzS-6m5aw",
+    "description": "Building networks for post-grad careers."
+  },
+  {
+    "id": 7,
+    "title": "Applying for Research Grants",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.gradschoolresources.com/research-grants.pdf",
+    "description": "Guide to funding best and good opportunities for  graduate students."
+  },
+  {
+    "id": 8,
+    "title": "Graduate Internships in Industry",
+    "category": "internship",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/Y1r6Pv2V8VY",
+    "description": "Why and how graduate students can pursue industry internships."
+  },
+  {
+    "id": 9,
+    "title": "Effective Public Speaking",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/7jx0dTYUO5E",
+    "description": "Overcoming fear and presenting confidently."
+  },
+  {
+    "id": 10,
+    "title": "Publishing in International Journals",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.gradschoolresources.com/journal-guide.pdf",
+    "description": "Step-by-step approach to publishing research."
+  },
+  {
+    "id": 11,
+    "title": "Postgraduate Success Stories",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/8pVkOfz3VdA",
+    "description": "Stories of graduates making an impact."
+  },
+  {
+    "id": 12,
+    "title": "Overcoming Thesis Burnout",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+    "description": "Mental health support for thesis writing."
+  },
+  {
+    "id": 13,
+    "title": "Graduate Career Options",
+    "category": "job roles",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/c9HBSpoR0zY",
+    "description": "Different career paths after graduate school."
+  },
+  {
+    "id": 14,
+    "title": "LinkedIn for Graduates",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.gradschoolresources.com/linkedin-guide.pdf",
+    "description": "How graduates can use LinkedIn effectively."
+  },
+  {
+    "id": 15,
+    "title": "Work-Life Balance After Graduation",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+    "description": "Balancing professional and personal life after graduation."
+  }
+]

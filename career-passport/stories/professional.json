@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Omar Farooq",
+    "field": "Finance",
+    "story": "Started as an intern and is now a senior manager at a top bank.",
+    "img": "images/omar.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Zainab Noor",
+    "field": "Marketing",
+    "story": "Led a campaign that boosted sales by 300% at her company.",
+    "img": "images/zainab.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tahir Hussain",
+    "field": "Software Development",
+    "story": "Founded a successful tech startup providing AI solutions for businesses.",
+    "img": "images/tahir.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Maria Yousuf",
+    "field": "Human Resources",
+    "story": "Revamped HR policies in her company leading to a 40% increase in employee satisfaction.",
+    "img": "images/maria.jpg"
+  }
+]

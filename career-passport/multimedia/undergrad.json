@@ -1,0 +1,130 @@
+[
+  {
+    "id":1,
+    "title": "Resume Building for University Students",
+    "category": "job",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/5Peo-ivmupE",
+    "description": "Craft a strong CV for internships and job applications."
+  },
+  {
+    "id":2,
+    "title": "Landing Your First Internship",
+    "category": "internship",
+    "type": "video",
+    "url": "https://media.istockphoto.com/id/802966532/video/internship-man-working-on-holographic-interface-visual-screen.mp4?s=mp4-640x640-is&k=20&c=dDX97TzOikxr3AEnu7Zmj1JpNaRVtVjhrLqS18cBAhc=",
+    "description": "Tips and tricks for undergraduates to secure internships."
+  },
+  {
+    "id":3,
+    "title": "Resume Building for College Students",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.jobseeker.com/app/resumes/new?sourceDocumentId=a7c3029e-f6aa-44c4-8f10-7e340ed110a6&copyFromSource=template",
+    "description": "Comprehensive resume-building guide for university students."
+  },
+  {
+    "id":4,
+    "title": "Networking 101",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://youtu.be/tC2FEvVipqs",
+    "description": "Learn how to network effectively during college years."
+  },
+  {
+    "id":5,
+    "title": "Time Management Hacks",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "description": "Balancing studies, part-time jobs, and social life."
+  },
+  {
+    "id":6,
+    "title": "Exploring Engineering Majors",
+    "category": "job roles",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/E9wS7sB7C2o",
+    "description": "Overview of career opportunities in engineering fields."
+  },
+  {
+    "id":7,
+    "title": "Entrepreneurship in College",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/kY7S6nMmfvg",
+    "description": "How college students started their own startups."
+  },
+  {
+    "id":8,
+    "title": "Student Exchange Programs",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.dreamstudiesabroad.com/pdf/handbook.pdf",
+    "description": "Guide to study abroad and exchange opportunities."
+  },
+  {
+    "id":9,
+    "title": "College Success Stories",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/Tuw8hxrFBH8",
+    "description": "Inspiring journeys of students who made an impact."
+  },
+  {
+    "id":10,
+    "title": "Internship Diaries Podcast",
+    "category": "internship",
+    "type": "podcast",
+    "url": "https://soundcloud.com/trulyballen/internships-audio-story?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+    "description": "Stories from undergraduates about their first internship."
+  },
+  {
+    "id":11,
+    "title": "Scholarship Opportunities",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.researchgate.net/publication/335208752_Student_Exchange_The_First_Step_Toward_International_Collaboration",
+    "description": "Scholarship list and eligibility for undergraduates."
+  },
+  {
+    "id":12,
+    "title": "Careers in Medicine",
+    "category": "job roles",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/q5w6ieaXlTA",
+    "description": "What it takes to pursue a career in medicine."
+  },
+  {
+    "id":13,
+    "title": "Mental Health in College",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "description": "Addressing stress, anxiety, and academic burnout."
+  },
+  {
+    "id":14,
+    "title": "Coding for Beginners",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.cs.cmu.edu/~112/index.html",
+    "description": "Beginner-friendly coding resources for undergraduates."
+  },
+  {
+    "id":15,
+    "title": "Motivational Speech for College Students",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/ZTzS1mZzZtY",
+    "description": "Encouragement for students to chase their dreams."
+  },
+  {
+    "id":16,
+    "title": "Volunteer and Leadership Roles",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.youthleadership.org/resources/leadership-handbook",
+    "description": "How to gain leadership experience while in college."
+  }
+]

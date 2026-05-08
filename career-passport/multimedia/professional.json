@@ -1,0 +1,131 @@
+[
+  { 
+     "id":1,
+    "title": "Leadership Skills for Professionals",
+    "category": "motivation",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "description": "Guidance on becoming an effective leader."
+  }
+,
+  {
+     "id":2,
+    "title": "Climbing the Corporate Ladder",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/VO6XEQIsCoM",
+    "description": "Strategies for career growth in corporate environments."
+  },
+  {
+     "id":3,
+    "title": "Effective Leadership Skills",
+    "category": "job roles",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/lXMskKTw3Bc",
+    "description": "Leadership training for working professionals."
+  },
+  {
+     "id":4,
+    "title": "Remote Work Best Practices",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.techlearning.com/news/best-free-online-learning-resources",
+    "description": "Productivity tips for remote and hybrid work models."
+  },
+  {
+     "id":5,
+    "title": "Professional Networking Podcast",
+    "category": "motivation",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+    "description": "How professionals can grow their networks."
+  },
+  {
+     "id":6,
+    "title": "Work-Life Balance Strategies",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+    "description": "Maintaining balance between career and personal life."
+  },
+  {
+     "id":7,
+    "title": "Transitioning into Management",
+    "category": "job roles",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/8SOQduoLgRw",
+    "description": "Moving from team member to manager roles."
+  },
+  {
+     "id":8,
+    "title": "Professional Certifications Guide",
+    "category": "resources",
+    "type": "article",
+    "url": "https://www.techlearning.com/news/best-free-online-learning-resources",
+    "description": "List of in-demand certifications across industries."
+  },
+  {
+     "id":9,
+    "title": "Handling Workplace Stress",
+    "category": "wellbeing",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+    "description": "Practical advice for stress management at work."
+  },
+  {
+     "id":10,
+    "title": "Women in Leadership",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/XwJTMNDyJd8",
+    "description": "Stories of women leading industries."
+  },
+  {
+     "id":11,
+    "title": "Entrepreneurship for Professionals",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/zLScX13mEZw",
+    "description": "Starting a business while managing a career."
+  },
+  {
+     "id":12,
+    "title": "Remote Team Collaboration",
+    "category": "resources",
+    "type": "article",
+    "url": "https://traffic.libsyn.com/secure/studentwellbeingpod/Managing_Studies_and_Hobbies.mp3",
+    "description": "Best tools and practices for virtual collaboration."
+  },
+  {
+     "id":13,
+    "title": "Industry Trends Podcast",
+    "category": "job roles",
+    "type": "podcast",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3",
+    "description": "Weekly analysis of emerging industry trends."
+  },
+  {
+     "id":14,
+    "title": "Financial Planning for Professionals",
+    "category": "resources",
+    "type": "article",
+    "url": "https://traffic.libsyn.com/secure/studentwellbeingpod/Managing_Studies_and_Hobbies.mp3",
+    "description": "Personal finance and investment strategies."
+  },
+  {
+     "id":15,
+    "title": "Public Speaking for Leaders",
+    "category": "motivation",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/0D9QJ38FjqU",
+    "description": "Improving public speaking confidence for managers."
+  },
+  {
+     "id":16,
+    "title": "Mentorship in the Workplace",
+    "category": "job roles",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/bJjZb8C6Qd4",
+    "description": "The importance of mentoring relationships in careers."
+  }
+]

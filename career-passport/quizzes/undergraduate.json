@@ -1,0 +1,128 @@
+[
+  {
+    "interest": "technology & innovation",
+    "questions": [
+      { "q": "Do you enjoy coding and creating apps?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to work in artificial intelligence?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy exploring new gadgets and tech tools?", "options": [{ "t": "Yes", "v": 3 }, { "t": "A little", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like solving data-related problems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy building a tech startup?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not at all", "v": 1 }] },
+      { "q": "Do you like experimenting with AI chatbots or robots?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about cloud computing?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not much", "v": 1 }] },
+      { "q": "Would you like to work in cybersecurity?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy building websites?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like learning programming languages?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy working with big data?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not much", "v": 1 }] },
+      { "q": "Do you follow tech industry trends?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about VR/AR development?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to be a CTO someday?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy designing innovative tech solutions?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Software Engineer", "Data Scientist"]
+  },
+  {
+    "interest": "business & management",
+    "questions": [
+      { "q": "Do you enjoy solving case studies?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to start your own business?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like learning about marketing strategies?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy finance and accounting topics?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like solving leadership problems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about supply chain management?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy working as a management consultant?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like analyzing business reports?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy entrepreneurship events?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to study MBA in future?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like working with business analytics tools?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy presenting business ideas?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about international trade?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy working in corporate strategy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not at all", "v": 1 }] },
+      { "q": "Do you like managing groups in university projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Business Analyst", "Marketing Manager"]
+  },
+  {
+    "interest": "arts & design",
+    "questions": [
+      { "q": "Do you enjoy creating digital art?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like working on design projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy studying fine arts?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy making creative posters?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about graphic design software?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like learning about photography?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy designing websites?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like studying history of art?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy experimenting with colors?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to work in fashion design?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about animation and VFX?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like interior design projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy creative storytelling?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to work in advertising design?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like presenting your creative work to others?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Graphic Designer", "UI/UX Designer"]
+  },
+  {
+    "interest": "healthcare & biology",
+    "questions": [
+      { "q": "Do you enjoy studying biology?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to become a doctor someday?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy working in laboratories?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Not much", "v": 1 }] },
+      { "q": "Are you curious about human anatomy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not at all", "v": 1 }] },
+      { "q": "Do you like studying diseases and medicines?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to work in medical research?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy helping people stay healthy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like studying genetics?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy attending biology labs?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to become a nurse or paramedic?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like working in healthcare teams?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you interested in nutrition and fitness?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Would you enjoy a career in pharmacy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like attending science seminars?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy researching cures for diseases?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "Not at all", "v": 1 }] }
+    ],
+    "recommendations": ["Biologist", "Medical Researcher"]
+  },
+  {
+    "interest": "social sciences",
+    "questions": [
+      { "q": "Do you enjoy studying psychology?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Would you like to work in politics or governance?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like discussing social issues?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you curious about anthropology?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy studying sociology?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like analyzing political debates?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you enjoy reading about history of societies?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to be a social researcher?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy solving community problems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like international relations topics?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Are you interested in human rights?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Mostly", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Would you like to work as a policy advisor?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy public speaking on social topics?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you like analyzing survey data?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like a career in psychology or politics?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] }
+    ],
+    "recommendations": ["Psychologist", "Policy Analyst"]
+  },
+  {
+    "interest": "environmental studies",
+    "questions": [
+      { "q": "Do you enjoy studying environmental science?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to work in renewable energy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like planting trees or eco-projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Are you curious about climate change?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Would you enjoy being an environmental activist?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not at all", "v": 1 }] },
+      { "q": "Do you like studying geography?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you enjoy participating in eco-friendly events?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "Rarely", "v": 1 }] },
+      { "q": "Do you like researching wildlife?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like to study sustainability?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you enjoy solving water conservation problems?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Occasionally", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Are you interested in careers in environmental law?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Somewhat", "v": 2 }, { "t": "Not really", "v": 1 }] },
+      { "q": "Do you like studying about forests and oceans?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Often", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you enjoy leading green projects?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Maybe", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Do you like studying human impact on nature?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Sometimes", "v": 2 }, { "t": "No", "v": 1 }] },
+      { "q": "Would you like a career in environmental policy?", "options": [{ "t": "Yes", "v": 3 }, { "t": "Possibly", "v": 2 }, { "t": "No", "v": 1 }] }
+    ],
+    "recommendations": ["Environmental Scientist", "Sustainability Consultant"]
+  }
+]

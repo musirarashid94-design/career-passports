@@ -1,0 +1,22 @@
+{
+  "Musira Rashid": {
+    "monToFri": ["09:00", "17:00"],
+    "satSun": null
+  },
+  "Kashf e Fatima": {
+    "monToFri": ["10:00", "18:00"],
+    "satSun": ["10:00", "14:00"]
+  },
+  "Nimra Naz": {
+    "monToFri": ["11:00", "19:00"],
+    "satSun": null
+  },
+  "Syeda Zainab": {
+    "monToFri": ["09:30", "16:30"],
+    "satSun": ["12:00", "15:00"]
+  },
+  "Safa Rajput": {
+    "monToFri": ["10:00", "17:00"],
+    "satSun": null
+  }
+}

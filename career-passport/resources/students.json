@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Study Tips for Grade 8–12",
+    "type": "Article",
+    "description": "A complete guide on how to manage study time effectively.",
+    "link": "https://r.search.yahoo.com/_ylt=AwrjdC9DMMRohykCobtXNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1758897475/RO=10/RU=https%3a%2f%2fwww.greatschools.org%2fgk%2fparenting%2facademics%2fwhat-your-8th-grader-should-have-learned%2f/RK=2/RS=RPl0Opch42TT1siug9YMwuTqZfM-",
+    "img": "images/tips study.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Science Made Easy",
+    "type": "Video",
+    "description": "Explains key science concepts with simple animations.",
+    "link": "https://r.search.yahoo.com/_ylt=Awr90R5nMMRovWsEG31XNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1758897512/RO=10/RU=https%3a%2f%2feducation.gov.gy%2fweb2%2findex.php%2fpri%2fngsa%2fnational-grade-6-assessment-2021-study-resources%2f4597-science-made-easy-revised-edition/RK=2/RS=SzwzqKRvZC142xa2AzYQ3ek1FPs-",
+    "img": "images/science.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Math Practice Sheets",
+    "type": "PDF",
+    "description": "Printable worksheets for Algebra and Geometry.",
+    "link": "https://r.search.yahoo.com/rdclks/dWU9NjBucWo0OWtjOGM0MCZ1dD0xNzU3Njg3OTM2NTgwJnVvPTgxODQ1MDA0ODc3ODI4Jmx0PTImcz0xJmVzPTFCVEF5RXRYMUJsc2U1VEpYNGNLZC5CMEZ6dVJ1alZLUndMTzBLaVRYR3hseFJfYjFfSW00NVVRRndCdHdQM1RhTFY1Zk9IakJoZkwuX2RO/RV=2/RE=1760279936/RO=14/RU=https%3a%2f%2fwww.bing.com%2faclick%3fld%3de8KGSQRGhVICj31SYYGS_h6zVUCUyR5kyWaguqO2KHqpeCrCytjFzDciW4bIEaQyRMgWLgkzZuaVK-g9pyot0Dvduo6VJv0DOSE25VqlPxiuxx_zJ8kEMpBmoV4Ch01DKojMouRA2AQkW-HvG-iwJAiTXW-t1IyJtSkixowbL-bOUWJpg83D27Vurcnh_Jf7-IxzQKgQ%26u%3daHR0cHMlM2ElMmYlMmZ3d3cuaXhsLmNvbSUyZnNraWxsLXBsYW5zJTNmcGFydG5lciUzZGdvb2dsZSUyNmNhbXBhaWduJTNkNDIwODMzNDU0JTI2YWRHcm91cCUzZDEzMDk1MTg3NTUwNTY0NzclMjZtc2Nsa2lkJTNkMTIwYjkxNDY5ZThkMWFiYjhjZTNmOTgyYWUwZDlkNjYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RTZWFyY2glMjUyMC0lMjUyMExlc3NvbiUyNTIwUGxhbiUyNTIwLSUyNTIwTW9kJTI1MjBCcm9hZCUyNTIwLSUyNTIwVVMlMjZ1dG1fdGVybSUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3Lml4bC5jb20lMjUyRnNraWxsLXBsYW5zJTI2dXRtX2NvbnRlbnQlM2RMZXNzb24lMjUyMFBsYW5fRFNB%26rlid%3d120b91469e8d1abb8ce3f982ae0d9d66/RK=2/RS=I3a7LbRRxzy46csXSExNUK60Ygg-;_ylt=Awr9zhKAMMRoPGsELCdXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA292LXRvcA--;_ylc=X3IDMgRydAMw?IG=0afdce12e1d8494d9a022541948b043c",
+    "img": "images/math.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Debate Skills 101",
+    "type": "Article",
+    "description": "Learn how to build confidence and structure arguments.",
+    "link": "https://r.search.yahoo.com/_ylt=Awr9zhKiMMRoPGsE29pXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1758897571/RO=10/RU=https%3a%2f%2fwww.speechanddebate.org%2fwp-content%2fuploads%2fTextbook-Debate-101.pdf/RK=2/RS=c1ba.2azg7BbYcGLwBG4bWt4Thc-",
+    "img": "images/debate.jpg"
+  }
+]
